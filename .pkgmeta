@@ -2,7 +2,7 @@ package-as: AscensionAccountSync
 license-output: LICENSE
 enable-nolib-creation: no
 required-dependencies:
-    - AscensionFactory
+    - ascension-factory
 ignore:
     .github
     .gitattributes
