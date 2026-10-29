@@ -1,0 +1,19 @@
+package-as: AscensionAccountSync
+license-output: LICENSE
+enable-nolib-creation: no
+required-dependencies:
+    - AscensionFactory
+ignore:
+    .github
+    .gitattributes
+    .gitignore
+    .pkgmeta
+    .DS_Store
+    __MACOSX
+    CHANGELOG.txt
+    README.md
+    .agents
+    .vscode
+manual-changelog: 
+    filename: CHANGELOG.txt
+    markup-type: html

@@ -1,0 +1,29 @@
+## Interface: 120105
+## Title: |cff9382c9Ascension|r Account Sync
+## Notes: Synchronizes UI options and settings account-wide across your characters.
+## Author: Aka-DoctorCode
+## Category: Utility
+## Version: V01
+## SavedVariables: AscensionAccountSyncDB
+## RequiredDeps: AscensionFactory
+## IconTexture: Interface\AddOns\AscensionAccountSync\Media\AkaDoctorCode.png
+## X-Curse-Project-ID: 1772485
+## X-Wago-ID: 96EXZgNg
+
+# Core
+Core\Core.lua
+Core\SyncEngine.lua
+
+# Modules: Gameplay
+Modules\Gameplay\Controls.lua
+Modules\Gameplay\Interface.lua
+Modules\Gameplay\ActionBars.lua
+Modules\Gameplay\Combat.lua
+Modules\Gameplay\Social.lua
+Modules\Gameplay\PingSystem.lua
+Modules\Gameplay\GameplayEnhancements.lua
+
+# UI & UX
+UI\Toast.lua
+UI\FirstLoginDialog.lua
+Config\UI.lua

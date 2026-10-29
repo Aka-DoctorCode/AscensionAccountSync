@@ -1,0 +1,8 @@
+<h1>@project-version@</h1>
+<ul>
+    <li>Initial release of Ascension Account Sync (V01).</li>
+    <li>Synchronizes Gameplay settings (Controls, Interface, Action Bars, Combat, Social, Ping System, Gameplay Enhancements) account-wide across characters.</li>
+    <li>First Login onboarding prompt and Account vs. Independent profile management.</li>
+</ul>
+<br>
+<h2>Positive feedback is always appreciated, it helps me to continue working on this project</h2>
